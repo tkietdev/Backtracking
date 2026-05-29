@@ -9,8 +9,6 @@
 
 ---
 
-# Các vấn đề bài toán lập trình quy hoạch động, backtracking
-
 ## Câu 1: Kiểm tra chuỗi đối xứng bằng đệ quy
 
 ### Mô tả bài toán
