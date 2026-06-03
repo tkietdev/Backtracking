@@ -1,4 +1,5 @@
-include<stdio.h> int n;
+#include <stdio.h>
+int n;
 int g[100];
 int x[100];
 int cnt = 0;
